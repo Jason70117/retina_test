@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">retina_test</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+	<string name="imgbutton_1">Import Image from Files</string>
+	<string name="imgbutton_2">Capture Image from Camera</string>
+	<string name="imgbutton_3">Check the Stored Images</string>
+	<string name="image_1">Image</string>
+	<string name="title">Retina Check</string>
+	<string name="quit">Quit</string>
+			
+</resources>
